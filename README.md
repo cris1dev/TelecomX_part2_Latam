@@ -1,13 +1,16 @@
 # TelecomX_part2_Latam
 Tercer Challenge Alura Latam, contexto TelecomX parte 2
 
+
 Contexto del caso:
 
 Como parte del equipo de Machine Learning de la empresa Telecom X, se ha establecido la meta de desarrollar modelos predictivos para prever clientes con mayor probabilidad de cancelar sus servicios.
 
+
 Objetivo general:
 
 La empresa quiere anticiparse al problema de la cancelación, por lo que encomendado construir un pipeline robusto para esta etapa inicial de modelado predictivo.
+
 
 Objetivos específicos:
 
@@ -22,6 +25,7 @@ Objetivos específicos:
 •	Interpretar los resultados, incluyendo la importancia de las variables.
 
 •	Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
+
 
 Habilidades por practicar:
 
