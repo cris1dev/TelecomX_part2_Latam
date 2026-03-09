@@ -24,10 +24,10 @@ Objetivos específicos:
 
 •	Interpretar los resultados, incluyendo la importancia de las variables.
 
-•	Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación.
+•	Crear una conclusión estratégica señalando los principales factores que influyen en la cancelación, presentando soluciones proactivas para retención de clientes.
 
 
-Habilidades por practicar:
+Habilidades aplicadas:
 
 •	Preprocesamiento de datos para Machine Learning
 
